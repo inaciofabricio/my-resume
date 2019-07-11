@@ -9,7 +9,7 @@
   <strong>
     Phone Number: 
   </strong>
-  +55 (83) 99906-9566
+  +55 (83) 99973-7611
 </p>
 <p>
   <strong>
@@ -19,15 +19,9 @@
 </p>
 <p>
   <strong>
-    Skype: 
-  </strong>
-  Inacio Fabricio Nunes de Sousa / fabricionunes.si@hotmail.com
-</p>
-<p>
-  <strong>
     GitHub:
   </strong>
-  https://github.com/FabricioNS
+  https://github.com/inaciofabricio
 </p>
 
 <h3>
