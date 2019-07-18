@@ -40,7 +40,7 @@
 	<li>Python</li>
 	<li>Java(Core e Android)</li>
 	<li>Ruby on Rails</li>
-	<li>AngularJS 1, 2 and 4</li>
+	<li>AngularJS 2+</li>
 	<li>NodeJS</li>
 	<li>MySQL - Sqlserver- MongoDB - Firebase</li>
 	<li>Scrum</li>
@@ -125,7 +125,7 @@
 </p>
 <p>
   <strong>
-    Angular 4( and 2) (Youtube)
+    Angular 2+ (Youtube)
   </strong><br>
   Content: 86 lessons<br>
   Prof. Loiane Groner<br>
