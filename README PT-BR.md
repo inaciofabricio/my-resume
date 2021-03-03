@@ -1,13 +1,13 @@
 # Inácio Fabrício Nunes de Sousa
 <p>
   <strong>
-    Location:
+    Localização:
   </strong> 
-  Campina Grande/PB - Brazil
+  Campina Grande/PB - Brasil
 </p>
 <p>
   <strong>
-    Phone Number: 
+    Telefone: 
   </strong>
   +55 (83) 99973-7611
 </p>
@@ -25,14 +25,14 @@
 </p>
 
 <h3>
-  About me
+  Sobre mim
 </h3>
 <p>
-   System analyst I live in Brazil and currently working at the Unifacisa universitary center with user support and web development   acting from the conversation with the client, doing requirements survey and creating front-end and back-end.
+   Analista de Sistemas moro no Campina Grande/PB e atualmente trabalho no Centro Universitário Unifacisa com suporte ao usuário e desenvolvimento web atuando desde a conversa com o cliente, fazendo levantamento de requisitos e criação de front-end e back-end.
 </p>
 
 <h3>
-  Skills
+  Habilidades:
 </h3>
 <ul>
 	<li>Basic English (Reading and Writing)</li>
@@ -52,41 +52,41 @@
 </ul>
 
 <h3>
-  Work Experience
+  Experiência de trabalho
 </h3>
 <p>
   <strong>
-    Web Developer
+    Desenvolvedor Web
   </strong> 
     - SENAI/PB - 04/2013 - 02/2014
 </p>
 <p>
-  I worked with the development of the web system for Faculdade Senai / PB.
+  Trabalhei com o desenvolvimento do sistema web para a Faculdade Senai / PB.
 </p>
 <p>
   <strong>
-    Systems Analyst 
+    Analista de Sistema Sênior 
   </strong>  
     - Unifacisa - 04/2014 - ...
 </p>
 <p>
-  I work with Totvs RM ERP support, which consists of creating reports and queries in SQLserver. In the development area I have provided support for four systems developed by me using the liguaguem PHP (Framework CodeIgniter) for backend, Mysql and Sqlserver for database and HTML5, CSS3, Jquery and Angular 1.
+  Eu trabalho com o suporte do Totvs RM ERP, que consiste em criar relatórios e consultas no SQLServer. Na área de desenvolvimento eu forneço suporte para quatro sistemas desenvolvidos por mim usando o linguagem PHP (Framework CodeIgniter) para backend, Mysql e Sqlserver para banco de dados e HTML5, CSS3, Jquery e Angular 6+.
 </p>
 
 <h3>
-  Education
+  Educação
 </h3>
 <p>
   <strong>
-    Bachelor's Degree, Information Systems - Unifacisa 
+    Bacharelado em Sistemas de Informação - Unifacisa 
   </strong>
-    - August 2009 - June 2014
+    - Agosto de 2009 - junho de 2014
 </p>
 <p>
   <strong>
-    Postgraduate in Development for Mobile Devices - Unifacisa
+    Pós Graduação em Desenvolvimento para Dispositivos Mobile - Unifacisa
   </strong>  
-    - April 2017 - October 2018
+    - Abril de 2017 a outubro de 2018
 </p>
 <h3>
   Courses
@@ -95,37 +95,37 @@
   <strong>
     Complete Android development course (Udemy)
   </strong><br>
-  Content: 332 lessons / 37.50 hours video lesson<br>
-  Prof. Jamilton Damasceno<br>
+  Conteúdo: 332 aulas / 37 horas <br>
+  Prof. Jamilton Damasceno
 </p>
 <p>
   <strong>
     Complete Course Developer of the NodeJS and MongoDB (Udemy)
   </strong><br>
-  Content: 153 lessons / 15.5 hours video lesson<br>
+  Conteúdo: 153 aulas / 15 horas<br>
   Prof. Jorge Sant Ana / Prof. Jamilton Damasceno<br>
 </p>
 <p>
   <strong>
     Python for Android, iOS, Windows, Linux, Mac (Udemy)
   </strong><br>
-  Content: 173 lessons / 26 hours video lesson<br>
+  Conteúdo: 173 aulas / 26 horas<br>
   Prof. Cláudio Rogério Carvalho Filho<br>
-  Status: In progress
+  Situação: Em progresso.
 </p>
 <p>
   <strong>
     Angular 2+ (Youtube)
   </strong><br>
-  Content: 86 lessons<br>
+  Conteúdo: 86 aulas<br>
   Prof. Loiane Groner<br>
-  Status: In progress
+  Status: Em progresso.
 </p>
 <p>
   <strong>
     Formação Java (Plataforma Alura)
   </strong><br>
-  Content: 130 hours<br>
+  Conteúdo: 130 horas<br>
   Prof: Paulo Silveira, Nico Steppat, Rodrigo Turini e Maurício Aniche<br>
-  Status: In progress
+  Status: Em progresso.
 </p>
