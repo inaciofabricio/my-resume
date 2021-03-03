@@ -15,7 +15,7 @@
   <strong>
     E-mail: 
   </strong>
-    inacio.fabricio.nunes@gmail.com / fabricionunes.si@hotmail.com
+    inacio.fabricio.nunes@gmail.com
 </p>
 <p>
   <strong>
@@ -86,7 +86,7 @@
   <strong>
     Postgraduate in Development for Mobile Devices - Unifacisa
   </strong>  
-    - April 2017 - October 2018 (Graduation forecast)
+    - April 2017 - October 2018
 </p>
 <h3>
   Courses
@@ -129,5 +129,13 @@
   </strong><br>
   Content: 86 lessons<br>
   Prof. Loiane Groner<br>
+  Status: In progress
+</p>
+<p>
+  <strong>
+    Formação Java (Plataforma Alura)
+  </strong><br>
+  Content: 130 hours<br>
+  Prof: Paulo Silveira, Nico Steppat, Rodrigo Turini e Maurício Aniche<br>
   Status: In progress
 </p>
