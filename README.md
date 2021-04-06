@@ -45,8 +45,18 @@ __Bacharelado em Sistemas de Informação - Unifacisa__ - Agosto de 2009 - junho
 __Pós Graduação em Desenvolvimento para Dispositivos Mobile__ - Unifacisa - Abril de 2017 a outubro de 2018
 
 ## Cursos
-__Complete Android development course (Udemy)__ <br/> 
--Conteúdo: 332 aulas / 37 horas
+__Curso completo de desenvolvimento Android (Udemy)__ <br/> 
+-Conteúdo: 332 aulas / 37 horas <br/> 
+-[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-curso-completo-do-desenvolvedor-android.jpg "Visualizar!") <br/>
+
+__Curso completo de NodeJS e MongoDB (Udemy)__ <br/> 
+-Conteúdo: 153 aulas / 15 horas <br/> 
+-[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-curso-completo-do-desenvolvedor-nodejs.jpg "Visualizar!") <br/>
+
+__Formação Node.js com Express (Alura)__ <br/> 
+-Conteúdo: 10 Cursos/Módulos / 110 horas <br/> 
+-[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado_formacao_alura_nodejs_com_express.jpg "Visualizar!") <br/>
+
 
 
 
