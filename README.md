@@ -51,7 +51,7 @@ __Curso completo de desenvolvimento Android (Udemy)__ <br/>
 
 __Curso completo de NodeJS e MongoDB (Udemy)__ <br/> 
 -Conteúdo: 153 aulas / 15 horas <br/> 
--![Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-curso-completo-do-desenvolvedor-nodejs.jpg "Visualizar!") <br/>
+-[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-curso-completo-do-desenvolvedor-nodejs.jpg "Visualizar!") <br/>
 
 __Formação Node.js com Express (Alura)__ <br/> 
 -Conteúdo: 10 Cursos/Módulos / 110 horas <br/> 
