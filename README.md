@@ -57,6 +57,11 @@ __Formação Node.js com Express (Alura)__ <br/>
 -Conteúdo: 10 Cursos/Módulos / 110 horas <br/> 
 -[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado_formacao_alura_nodejs_com_express.jpg "Visualizar!") <br/>
 
+__Curso de Microsserviços: Padrões de projeto (Alura)__ <br/> 
+-Conteúdo: 38 atividades / 6 horas <br/> 
+-[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-microsservicos-padroes-de-projeto.png "Visualizar!") <br/>
+
+
 
 
 
