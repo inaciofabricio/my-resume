@@ -61,6 +61,10 @@ __Curso de Microsserviços: Padrões de projeto (Alura)__ <br/>
 -Conteúdo: 38 atividades / 6 horas <br/> 
 -[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-microsservicos-padroes-de-projeto.png "Visualizar!") <br/>
 
+__Formação Java e Orientação a Objetos (Alura)__ <br/> 
+-Conteúdo: 10 Cursos/Módulos / 130 horas <br/> 
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-java-76916/certificate "Visualizar!") <br/>
+
 
 
 
