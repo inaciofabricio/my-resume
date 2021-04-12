@@ -47,19 +47,19 @@ __Pós Graduação em Desenvolvimento para Dispositivos Mobile__ - Unifacisa - A
 ## Cursos
 __Curso completo de desenvolvimento Android (Udemy)__ <br/> 
 -Conteúdo: 332 aulas / 37 horas <br/> 
--[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-curso-completo-do-desenvolvedor-android.jpg "Visualizar!") <br/>
+-[Certificado](https://www.udemy.com/certificate/UC-1XNER8X5/ "Visualizar!") <br/>
 
 __Curso completo de NodeJS e MongoDB (Udemy)__ <br/> 
 -Conteúdo: 153 aulas / 15 horas <br/> 
--[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-curso-completo-do-desenvolvedor-nodejs.jpg "Visualizar!") <br/>
+-[Certificado](https://www.udemy.com/certificate/UC-6c045da6-3490-412c-b417-46001e112c11/ "Visualizar!") <br/>
 
 __Formação Node.js com Express (Alura)__ <br/> 
 -Conteúdo: 10 Cursos/Módulos / 110 horas <br/> 
--[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado_formacao_alura_nodejs_com_express.jpg "Visualizar!") <br/>
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-node-js-12-93110/certificate "Visualizar!") <br/>
 
 __Curso de Microsserviços: Padrões de projeto (Alura)__ <br/> 
 -Conteúdo: 38 atividades / 6 horas <br/> 
--[Certificado](https://github.com/inaciofabricio/my-resume/blob/master/files/certificado-microsservicos-padroes-de-projeto.png "Visualizar!") <br/>
+-[Certificado](https://cursos.alura.com.br/certificate/estudoaluracg/microsservicos-padroes-projeto "Visualizar!") <br/>
 
 __Formação Java e Orientação a Objetos (Alura)__ <br/> 
 -Conteúdo: 10 Cursos/Módulos / 130 horas <br/> 
