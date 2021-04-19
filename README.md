@@ -17,7 +17,7 @@ Analista de Sistemas moro no Campina Grande/PB e atualmente trabalho no Centro U
 - PHP
 - Python
 - Java(Core e Android)</li>
-- AngularJS
+- Angular
 - NodeJS</li>
 - MySQL - Sqlserver- MongoDB - Firebase
 - Scrum
