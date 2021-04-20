@@ -22,8 +22,8 @@ Analista de Sistemas moro no Campina Grande/PB e atualmente trabalho no Centro U
 - MySQL - Sqlserver- MongoDB - Firebase
 - Scrum
 - CSS
-- JavaScript (Vanilla)
-- CSS Frameworks (Bootstrap)
+- JavaScript
+- TypeScript
 - Git
 - NPM
 
