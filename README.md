@@ -65,6 +65,10 @@ __Formação Java e Orientação a Objetos (Alura)__ <br/>
 -Conteúdo: 10 Cursos/Módulos / 130 horas <br/> 
 -[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-java-76916/certificate "Visualizar!") <br/>
 
+__Formação Angular (Alura)__ <br/> 
+-Conteúdo: 7 Cursos/Módulos / 80 horas <br/> 
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-angular-2398/certificate "Visualizar!") <br/>
+
 
 
 
