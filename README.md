@@ -69,6 +69,10 @@ __Formação Angular (Alura)__ <br/>
 -Conteúdo: 7 Cursos/Módulos / 80 horas <br/> 
 -[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-angular-2398/certificate "Visualizar!") <br/>
 
+__Formação Front-End (Alura)__ <br/> 
+-Conteúdo: 18 Cursos/Módulos / 170 horas <br/> 
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-front-end-113709/certificate "Visualizar!") <br/>
+
 
 
 
