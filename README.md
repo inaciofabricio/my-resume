@@ -73,6 +73,9 @@ __Formação Front-End (Alura)__ <br/>
 -Conteúdo: 18 Cursos/Módulos / 170 horas <br/> 
 -[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-front-end-113709/certificate "Visualizar!") <br/>
 
+__Formação Wordpress (Alura)__ <br/> 
+-Conteúdo: 7 Cursos/Módulos / 60 horas <br/> 
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-wordpress-54133/certificate "Visualizar!") <br/>
 
 
 
