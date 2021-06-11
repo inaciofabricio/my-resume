@@ -77,6 +77,10 @@ __Formação Wordpress (Alura)__ <br/>
 -Conteúdo: 7 Cursos/Módulos / 60 horas <br/> 
 -[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-wordpress-54133/certificate "Visualizar!") <br/>
 
+__Formação Design de Jogos (Alura)__ <br/> 
+-Conteúdo: 11 Cursos/Módulos / 60 horas <br/> 
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-design-de-jogos-148860/certificate "Visualizar!") <br/>
+
 
 
 
