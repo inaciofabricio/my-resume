@@ -81,6 +81,10 @@ __Formação Design de Jogos (Alura)__ <br/>
 -Conteúdo: 11 Cursos/Módulos / 60 horas <br/> 
 -[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-design-de-jogos-148860/certificate "Visualizar!") <br/>
 
+__Formação SEO (Alura)__ <br/> 
+-Conteúdo: 5 Cursos/Módulos / 40 horas <br/> 
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-seo-159417/certificate "Visualizar!") <br/>
+
 
 
 
