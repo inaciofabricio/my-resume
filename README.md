@@ -26,6 +26,10 @@ Analista de Sistemas moro no Campina Grande/PB e atualmente trabalho no Centro U
 - TypeScript
 - Git
 - NPM
+- CSharp
+- Unity
+- SEO
+- -Wordpress
 
 ## Experiência de trabalho
 
@@ -84,6 +88,15 @@ __Formação Design de Jogos (Alura)__ <br/>
 __Formação SEO (Alura)__ <br/> 
 -Conteúdo: 5 Cursos/Módulos / 40 horas <br/> 
 -[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-seo-159417/certificate "Visualizar!") <br/>
+
+__Formação Jogos com Unity (Alura)__ <br/> 
+-Conteúdo: 10 Cursos/Módulos / 90 horas <br/> 
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-jogos-unity-316/certificate "Visualizar!") <br/>
+
+__Formação Jogos com Unity (Alura)__ <br/> 
+-Conteúdo: 9 Cursos/Módulos / 80 horas <br/> 
+-[Certificado](https://cursos.alura.com.br/user/estudoaluracg/degree-c-sharp-orientacao-objetos-95990/certificate "Visualizar!") <br/>
+
 
 
 
